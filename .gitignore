@@ -1,0 +1,23 @@
+# Production/runtime data
+*.db
+*.db-wal
+*.db-shm
+*.sqlite*
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+*.cer
+*.bak
+*.zip
+.env
+.env.*
+secrets.*
+logs/
+backups/
+Data/
+__pycache__/
+*.pyc
+.venv/
+venv/
